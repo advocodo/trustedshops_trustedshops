@@ -1,0 +1,3 @@
+# Trustedshops Trustedshops
+
+#magento #module

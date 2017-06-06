@@ -1,0 +1,11 @@
+# Trustedshops_Trustedshops
+app/code/community/Trustedshops/Trustedshops                app/code/community/Trustedshops/Trustedshops
+app/design/frontend/base/default/layout/trustedshops.xml    app/design/frontend/base/default/layout/trustedshops.xml
+app/design/frontend/base/default/template/trustedshops      app/design/frontend/base/default/template/trustedshops
+app/etc/modules/Trustedshops_Trustedshops.xml               app/etc/modules/Trustedshops_Trustedshops.xml
+app/locale/de_AT/Trustedshops_Trustedshops.csv              app/locale/de_AT/Trustedshops_Trustedshops.csv
+app/locale/de_CH/Trustedshops_Trustedshops.csv              app/locale/de_CH/Trustedshops_Trustedshops.csv
+app/locale/de_DE/Trustedshops_Trustedshops.csv              app/locale/de_DE/Trustedshops_Trustedshops.csv
+app/locale/fr_CA/Trustedshops_Trustedshops.csv              app/locale/fr_CA/Trustedshops_Trustedshops.csv
+app/locale/fr_FR/Trustedshops_Trustedshops.csv              app/locale/fr_FR/Trustedshops_Trustedshops.csv
+skin/adminhtml/default/default/images/trustedshops          skin/adminhtml/default/default/images/trustedshops

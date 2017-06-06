@@ -1,0 +1,17 @@
+{
+    "name": "Advocodo/Trustedshops_Trustedshops",
+    "description": "Build trust at first sight: integrate your Trustbadge and automatically collect customer and product reviews.",
+    "type": "magento-module",
+    "homepage": "https://www.magentocommerce.com/magento-connect/trustbadger-reviews-toolkit.html",
+    "keywords": ["Trusted Shops"],
+    "authors": [
+        {
+            "name": "Trusted Shops",
+            "email": "productfeedback@trustedshops.com",
+            "role": "owner"
+        }
+    ],
+    "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+    }
+}
